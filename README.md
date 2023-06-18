@@ -1,9 +1,4 @@
-# sup or something idk
+# sup or something idk ig lol or something whatever
+Was too lazy to make something impressive for my profile page, so here's a bunch of unimpressive stats instead:
 
-i found this cool thing ig (it's conway's game of life based off of my yearly contribution activity):
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/yamin-shihab.gif)](https://github4life.herokuapp.com/yamin-shihab)
-
-this too lol (how many times this page has been visited since April 2023):
-
-[![GitHub Profile Counter](https://profile-counter.glitch.me/yamin-shihab/count.svg)](https://profile-counter.glitch.me/yamin-shihab/count.svg)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yamin-shihab&show_icons=true&show=reviews&theme=transparent&border_radius=0 "Github Stats") ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamin-shihab&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=transparent&border_radius=0 "Top Langs")
