@@ -1,9 +1,21 @@
-# Hi, I'm Yamin
-
-*Full-time Procrastinator and Bikeshedder*
-
----
-
-## My Dissapointing Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yamin-shihab&show_icons=true&show=reviews&theme=transparent&border_radius=0 "Github Stats") ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamin-shihab&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&theme=transparent&border_radius=0 "Top Langs")
+```
+ _________________________________________________________
+/ yamin-shihab@github.com                                 \
+| ----------------                                        |
+| Host: Edmonton, Canada                                  |
+| Kernel: Grade 11                                        |
+| Uptime: 16 years                                        |
+| Locales: English, Arabic                                |
+| Hobbies: Weightlifting, Music, Reading, Ricing, Gaming  |
+| Favorite Metal: Thrash, Death, Melodeath, Speed, Groove |
+|                                                         |
+| Languages: Rust, C, GDScript, Zig, Shell, Python, Lua   |
+| Current Setup: Fedora, GNOME, fish, Zed                 |
+\ Previous Setup: Arch, Qtile, Zsh, Neovim                /
+ ---------------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
