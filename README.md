@@ -1,18 +1,17 @@
 ```
- _________________________________________________________
-/ yamin-shihab@github.com                                 \
-| ----------------                                        |
-| Host: Edmonton, Canada                                  |
-| Kernel: Grade 11                                        |
-| Uptime: 16 years                                        |
-| Locales: English, Arabic                                |
-| Hobbies: Weightlifting, Music, Reading, Ricing, Gaming  |
-| Favorite Metal: Thrash, Death, Melodeath, Speed, Groove |
-|                                                         |
-| Languages: Rust, C, GDScript, Zig, Shell, Python, Lua   |
-| Current Setup: Fedora, GNOME, fish, Zed                 |
-\ Previous Setup: Arch, Qtile, Zsh, Neovim                /
- ---------------------------------------------------------
+ _______________________________________________________
+/ yamin-shihab@github.com                               \
+| -----------------------                               |
+| Host: Edmonton, Canada                                |
+| Kernel: Unempl*yed                                    |
+| Uptime: 16 years                                      |
+| Locale: English, Arabic                               |
+| Hobbies: Lifting, Music, Reading, Ricing, Gaming      |
+|                                                       |
+| Languages: Rust, C, GDScript, Zig, Shell, Python, Lua |
+| Current Setup: Fedora, GNOME, Firefox, fish, Zed      |
+\ Previous Setup: Arch, Qtile, qutebrowser, Zsh, Neovim /
+ -------------------------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
