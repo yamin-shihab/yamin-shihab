@@ -1,7 +1,8 @@
 ```
  _______________________________________________________
-/ yamin-shihab@github.com                               \
+/ yamhab@github.com                                     \
 | -----------------------                               |
+| OS: Yamin Shihab                                      |
 | Host: Edmonton, Canada                                |
 | Kernel: Unempl*yed                                    |
 | Uptime: 16 years                                      |
